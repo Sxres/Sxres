@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi There!
 
-<!--
-**Sxres/Sxres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dragos Sorescu, an aspiring Machine Learning Engineer based in Toronto.
 
-Here are some ideas to get you started:
+I build machine learning applications that solve real-world problems. My focus is on scalable AI, combining strong model training with production-grade deployment skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+* **Languages:** Python, C++
+* **ML & Data:** PyTorch, TensorFlow, Pandas, Scikit-learn, XGBoost
+* **Deployment:** Docker, FastAPI, Google Cloud Platform (GCP)
+
+### Fun Facts
+*  **Rock Climbing:** My favorite way to stay active.
+*  **Snowboarding:** my profile picture was actually taken during a trip to Banff
+
