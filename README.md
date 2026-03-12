@@ -7,6 +7,6 @@ I build machine learning applications that aim to solve real-world problems. My 
 For my tech stack I mainly use Python but have dabbled recently in C++, mainly using packages like Pytorch, Tensorflow, Pandas, Scikit-learn, and Matplotlib to build up projects. 
 
 ### Hobbies!
-*  **Rock Climbing:** I yearn for the rock.
+*  **Rock Climbing:** I yearn for the rocks.
 *  **Snowboarding:** My profile picture was actually taken during a recent trip to Banff.
 
