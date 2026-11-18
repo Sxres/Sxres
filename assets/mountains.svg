@@ -16,20 +16,17 @@
     .glint { opacity: 0; }
     .reed { transform-box: fill-box; transform-origin: 50% 100%; }
     @media (prefers-reduced-motion: no-preference) {
-      .glint { animation: glint 5s ease-in-out infinite; }
-      .glint:nth-child(2) { animation-delay: -1.4s; animation-duration: 6s; }
-      .glint:nth-child(3) { animation-delay: -2.6s; animation-duration: 4.5s; }
-      .glint:nth-child(4) { animation-delay: -3.4s; animation-duration: 6.5s; }
-      .glint:nth-child(5) { animation-delay: -0.8s; animation-duration: 5.5s; }
-      .glint:nth-child(6) { animation-delay: -4.2s; animation-duration: 7s; }
-      .glint:nth-child(7) { animation-delay: -2s; animation-duration: 5s; }
-      .glint:nth-child(8) { animation-delay: -3s; animation-duration: 6s; }
+      .glint { animation: glint 4s ease-in-out infinite; }
+      .glint:nth-child(3n) { animation-delay: -1.3s; animation-duration: 5s; }
+      .glint:nth-child(3n+1) { animation-delay: -2.6s; animation-duration: 4.2s; }
+      .glint:nth-child(4n) { animation-delay: -0.7s; animation-duration: 6s; }
+      .glint:nth-child(5n) { animation-delay: -3.4s; animation-duration: 5.4s; }
       .reed { animation: sway 4.5s ease-in-out infinite alternate; }
       .reed.right { animation-delay: -2.2s; animation-duration: 5.4s; }
     }
     @keyframes glint {
       0%, 100% { opacity: 0; transform: translateX(0); }
-      50% { opacity: .5; transform: translateX(6px); }
+      50% { opacity: .4; transform: translateX(2px); }
     }
     @keyframes sway {
       from { transform: rotate(-2.4deg); }
@@ -45,15 +42,23 @@
     <path class="snow" d="M64 96h1m92-67h1m82 109h1m95-79h1m107 85h1m103-62h1m85 37h1"/>
     <path class="snow" d="M18 133h1m81-70h1m92 23h1m131-71h1m67 87h1m110-69h1m90 75h1m103-86h1"/>
   </g>
-  <g clip-path="url(#water)" fill="#dff9ff" shape-rendering="crispEdges">
-    <rect class="glint" x="60" y="152" width="14" height="1"/>
-    <rect class="glint" x="180" y="160" width="22" height="1"/>
-    <rect class="glint" x="320" y="150" width="10" height="1"/>
-    <rect class="glint" x="430" y="168" width="26" height="1"/>
-    <rect class="glint" x="560" y="156" width="16" height="1"/>
-    <rect class="glint" x="640" y="176" width="20" height="1"/>
-    <rect class="glint" x="120" y="182" width="18" height="1"/>
-    <rect class="glint" x="500" y="188" width="14" height="1"/>
+  <g clip-path="url(#water)" fill="#e8f6ff" shape-rendering="crispEdges">
+    <rect class="glint" x="40" y="150" width="3" height="1"/>
+    <rect class="glint" x="95" y="158" width="2" height="1"/>
+    <rect class="glint" x="150" y="152" width="4" height="1"/>
+    <rect class="glint" x="210" y="166" width="2" height="1"/>
+    <rect class="glint" x="265" y="150" width="3" height="1"/>
+    <rect class="glint" x="320" y="172" width="2" height="1"/>
+    <rect class="glint" x="375" y="156" width="3" height="1"/>
+    <rect class="glint" x="430" y="164" width="2" height="1"/>
+    <rect class="glint" x="480" y="150" width="4" height="1"/>
+    <rect class="glint" x="535" y="178" width="2" height="1"/>
+    <rect class="glint" x="590" y="158" width="3" height="1"/>
+    <rect class="glint" x="645" y="168" width="2" height="1"/>
+    <rect class="glint" x="700" y="152" width="3" height="1"/>
+    <rect class="glint" x="120" y="186" width="2" height="1"/>
+    <rect class="glint" x="360" y="190" width="3" height="1"/>
+    <rect class="glint" x="600" y="192" width="2" height="1"/>
   </g>
   <g transform="translate(28 178)">
     <g class="reed" fill="#14332a" shape-rendering="crispEdges">
