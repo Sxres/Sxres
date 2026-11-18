@@ -1,12 +1,13 @@
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/mountains-mobile.svg">
-  <img src="./assets/mountains.svg" width="100%" alt="Dragos Sorescu, aspiring machine learning engineer in Toronto and Research Assistant at Durham College’s AI Hub. A golden sun rises behind blue mountains.
+  <img src="./assets/mountains.svg" width="100%" alt="Dragos Sorescu, aspiring machine learning engineer in Toronto and Research Assistant at Durham College’s AI Hub. A dithered sunrise over Mount Rundle reflects in the Vermilion Lakes in Banff, Alberta.
     Languages: Python, TypeScript, C++, SQL.
     ML and data: PyTorch, TensorFlow, scikit-learn, XGBoost, OpenCV, Pandas, NumPy, Matplotlib, Seaborn.
     LLMs and evaluation: Claude API, LangChain, LangGraph, Ragas.
-    Web and backend: FastAPI, Svelte, SvelteKit, Vite, Supabase, Streamlit.
-    Cloud: AWS (EC2, S3, Lambda, API Gateway, ECR, Bedrock) and Google Cloud (Cloud Run, Artifact Registry, Compute Engine).
-    Development and testing: Git, Linux, Docker, pytest, Locust.">
+    Web and backend: FastAPI, Svelte, Vite, Supabase, Streamlit.
+    AI tools: Codex, OpenCode, Qwen.
+    Development and testing: Git, Linux, Docker, pytest, Locust.
+    Cloud: AWS (EC2, S3, Lambda, API Gateway, ECR, Bedrock) and Google Cloud (Cloud Run, Artifact Registry, Compute Engine).">
 </picture>
 
 <p align="center">
