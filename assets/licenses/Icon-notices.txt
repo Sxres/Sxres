@@ -18,10 +18,11 @@ Qwen: https://github.com/pheralb/svgl/blob/90f6de7026c5e75a9014dbf1f422792bd40b1
 Ragas: https://github.com/vibrantlabsai/ragas/blob/8c63f10d500c44efbf24fdb9e2920de2104c321c/docs/_static/imgs/logo-black.svg
 Matplotlib: https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/matplotlib/matplotlib-plain.svg
 Seaborn: https://github.com/mwaskom/seaborn/blob/c1cb287835852406691aed60ea0c62710f2c6b18/doc/_static/logo-mark-darkbg.svg
-XGBoost: https://github.com/xgboost-ai/xgboost-ai.github.io/blob/cb39762a54358f98ece4751b46ca567bf97a027b/images/logo/xgboost-logo-square.png
+Claude Code: https://github.com/simple-icons/simple-icons/blob/17cd4ee07612198a1d8777a060d4100423762a8b/icons/claudecode.svg
+PostgreSQL: https://github.com/simple-icons/simple-icons/blob/17cd4ee07612198a1d8777a060d4100423762a8b/icons/postgresql.svg
 SQL: Original generic database symbol
 
-The Ragas and Matplotlib marks have been recolored; the Seaborn and XGBoost marks are reduced-size raster versions.
+The Ragas and Matplotlib marks have been recolored. The Seaborn mark is a reduced-size raster version.
 
 mwaskom/seaborn — upstream repository license
 
