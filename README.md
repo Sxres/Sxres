@@ -11,7 +11,8 @@
 </picture>
 
 <p align="center">
+  <br>
   <a href="https://sxres.dev/"><img src="./assets/portfolio.svg" height="33" alt="Portfolio at sxres.dev"></a>
-  &nbsp;
+  &emsp;
   <a href="https://www.linkedin.com/in/dragos-sorescu/"><img src="./assets/linkedin.svg" height="33" alt="LinkedIn"></a>
 </p>
