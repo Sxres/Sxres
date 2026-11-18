@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="30" viewBox="0 0 139 30" role="img" aria-label="sxres.dev">
+  <path d="M2 0H137V2H139V28H137V30H2V28H0V2H2Z" fill="#0e1a29" stroke="#2b3b4e" shape-rendering="crispEdges"/>
+  <path d="M2 0H30V30H2V28H0V2H2Z" fill="#ffc489" opacity=".14"/>
+  <path d="M30.5 2V28" stroke="#2b3b4e" shape-rendering="crispEdges"/>
+  <svg x="8" y="8" width="14" height="14" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <rect width="16" height="12" fill="#2f7fd0"/>
+  <path d="M3 12V9H5V7H7V5H9V7H11V9H13V12Z" fill="#eef3fa"/>
+  <path d="M7 5H9V7H8V8H7Z" fill="#c9d8e6"/>
+  <rect y="12" width="16" height="4" fill="#0d2c44"/>
+  <rect x="5" y="13" width="6" height="1" fill="#3f6f96"/>
+  <rect x="6" y="14" width="4" height="1" fill="#2a5478"/></svg>
+  <text x="38" y="19" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#d7e7f5">sxres.dev</text>
+  <svg x="119" y="9" width="14" height="14" viewBox="0 0 14 14"><path d="M4 10L10 4M10 4H6M10 4V8" fill="none" stroke="#ffc489" stroke-width="1.4" shape-rendering="crispEdges"/></svg>
+</svg>

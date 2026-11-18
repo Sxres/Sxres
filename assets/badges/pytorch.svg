@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="26" viewBox="0 0 89 26" role="img" aria-label="pytorch">
+  <path d="M2 0H87V2H89V24H87V26H2V24H0V2H2Z" fill="#0e1a29" stroke="#2b3b4e" shape-rendering="crispEdges"/>
+  <svg x="8" y="6" width="14" height="14" viewBox="0 0 24 24" fill="#ffc489"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></svg>
+  <text x="28" y="17" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#d7e7f5">pytorch</text>
+</svg>
