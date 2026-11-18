@@ -1,8 +1,7 @@
-<img src="./assets/mountains.svg" width="100%" alt="Layered mountain ridges in dithered shades of blue">
-
-# Dragos Sorescu
-
-I'm an aspiring machine learning engineer in Toronto and a research assistant at Durham College's AI Hub.
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/mountains-mobile.svg">
+  <img src="./assets/mountains.svg" width="100%" alt="Dragos Sorescu, aspiring machine learning engineer in Toronto and Research Assistant at Durham College’s AI Hub. A golden sun rises behind blue mountain peaks.">
+</picture>
 
 ## Selected projects
 
